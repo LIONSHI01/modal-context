@@ -1,7 +1,4 @@
-import Image from 'next/image';
-import { Inter } from 'next/font/google';
-import { Button } from '@/components/ui/button';
-import { env } from '@/env.mjs';
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
